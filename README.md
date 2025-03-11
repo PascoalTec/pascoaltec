@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Leonardo from Rio de Janeiro, Brazil<br><br>- 🔭 I’m working as ...<br>- 📚 Java Spring Boot<br>- ⚡ In my free time I study</p>
+<p align="left">I'm Leonardo from Rio de Janeiro, Brazil<br><br>- 🔭 I’m working as TI Analyst<br>- 📚 Java Spring Boot<br>- ⚡ In my free time I study</p>
 
 ###
 
