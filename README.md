@@ -4,9 +4,9 @@
 
 ## Sobre mim
 
-Graduado em Ciência da Computação pela IBMR
-Amante de desenvolvimento Back-End
-Estudando Java Spring Boot
+- Graduado em Ciência da Computação pela IBMR
+- Amante de desenvolvimento Back-End
+- Estudando Java Spring Boot
 
 ##
 
