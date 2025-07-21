@@ -28,9 +28,8 @@
   [![My Skills](https://skillicons.dev/icons?i=amazonwebservices,spring,vuejs)](https://skillicons.dev)
 
   ### 🛠️ Ferramentas de desenvolvimento
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  
+  [![My Skills](https://skillicons.dev/icons?i=vscode,intellij)](https://skillicons.dev)
 </div>
 
 ###
