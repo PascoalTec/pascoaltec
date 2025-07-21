@@ -24,12 +24,8 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker,oracle)](https://skillicons.dev)
 
   ### 🚀 Frameworks e bibliotecas
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
+
+  [![My Skills](https://skillicons.dev/icons?i=amazonwebservices,spring,vuejs)](https://skillicons.dev)
 
   ### 🛠️ Ferramentas de desenvolvimento
 
