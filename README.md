@@ -47,13 +47,16 @@
 
 ###
 
-<p align="left">
+<p align ="left">
   <a href="https://www.instagram.com/_leonardopascoal?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_leonardopascoal/" alt="Instagram"/></a>
+
   <a href = "https://www.twitch.tv/mormyssh">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo"/><a/>
-  <a href= "https://mail.google.com/mail/?view=cm&fs=1&to=leonardo.paascoal@gmail.com"">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo"/></a>
+
+  <a href= "https://mail.google.com/mail/?view=cm&fs=1&to=leonardo.paascoal@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/></a>
+  
   <a href="https://www.linkedin.com/in/leonardopascoal1/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardopascoal1/" alt="LinkedIn"/></a>
 </p>
