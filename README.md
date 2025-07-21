@@ -1,6 +1,14 @@
-<h2 align="left">Hi 👋! My name is Leonardo and I'm a Back-end developer, from Brasil</h2>
+<h2 align="left">Olá 👋! Meu nome é Leonardo</h2>
 
 ###
+
+## Sobre mim
+
+Graduado em Ciência da Computação pela IBMR
+Amante de desenvolvimento Back-End
+Estudando Java Spring Boot
+
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PascoalTec&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"  />
@@ -8,6 +16,8 @@
 </div>
 
 ###
+
+## Tecnologias e linguagens 💻
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
