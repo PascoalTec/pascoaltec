@@ -21,7 +21,7 @@
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker,oracle)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker,oracle,jenkins)](https://skillicons.dev)
 
   ### 🚀 Frameworks e bibliotecas
 
@@ -29,7 +29,7 @@
 
   ### 🛠️ Ferramentas de desenvolvimento
   
-  [![My Skills](https://skillicons.dev/icons?i=vscode,intellij)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,idea)](https://skillicons.dev)
 </div>
 
 ###
