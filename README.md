@@ -21,11 +21,11 @@
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker,oracle,jenkins)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker,oracle)](https://skillicons.dev)
 
   ### 🚀 Frameworks e bibliotecas
 
-  [![My Skills](https://skillicons.dev/icons?i=amazonwebservices,spring,vuejs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=amazonwebservices,spring,vuejs,jenkins)](https://skillicons.dev)
 
   ### 🛠️ Ferramentas de desenvolvimento
   
