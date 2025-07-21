@@ -43,7 +43,6 @@
 ###
 
 
-
 <img src="https://raw.githubusercontent.com/PascoalTec/PascoalTec/output/snake.svg" alt="Snake animation" />
 
 ###
