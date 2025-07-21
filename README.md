@@ -21,7 +21,7 @@
 
 <div align="left">
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker,oracle)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,js,docker,oracle)](https://skillicons.dev)
 
   ### 🚀 Frameworks e bibliotecas
 
